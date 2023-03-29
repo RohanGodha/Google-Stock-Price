@@ -3,6 +3,7 @@
 **1. Install Library**
 
 pip install streamlit
+
 pip install yfinance
 
 
