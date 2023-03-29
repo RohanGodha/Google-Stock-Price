@@ -1,7 +1,7 @@
 # Google-Stock-Price
 
 **1. Install Library**
-pip install streamlit
+pip install streamlit \n
 pip install yfinance
 
 **2. Write the Code**
